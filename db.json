@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "name": "paywand",
+      "email": "9999999999",
+      "age": "19",
+      "id": 96
+    },
+    {
+      "name": "Clarke bakr",
+      "email": "7854125874",
+      "age": "44",
+      "id": 97
+    },
+    {
+      "id": 59,
+      "name": "huda",
+      "email": "huda@vv.vom",
+      "age": "43"
+    },
+    {
+      "id": 6,
+      "name": "mohamed",
+      "email": "mohammed@gmail.com",
+      "age": "43"
+    },
+    {
+      "id": 45,
+      "name": "Kelsie Moon",
+      "email": "cimyqyf@mailinator.com",
+      "age": "64"
+    },
+    {
+      "id": 33,
+      "name": "Illum quis iste lab",
+      "email": "5555555555",
+      "age": "45"
+    },
+    {
+      "id": 93,
+      "name": "Illum quis iste lab",
+      "email": "5555555555",
+      "age": "45"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
